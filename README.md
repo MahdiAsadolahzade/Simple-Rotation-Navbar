@@ -4,7 +4,7 @@ Welcome to the Rotational Navbar project! This project showcases an elegant rota
 
 ## Demo
 
-Visit The ![Site](https://mahdiasadolahzade.github.io/Simple-Rotation-Navbar/)
+Visit The [Site](https://mahdiasadolahzade.github.io/Simple-Rotation-Navbar/)
 
 ## Overview
 
