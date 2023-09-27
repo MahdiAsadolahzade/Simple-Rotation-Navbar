@@ -2,7 +2,9 @@
 
 Welcome to the Rotational Navbar project! This project showcases an elegant rotational navigation bar that can be easily integrated into web applications and websites.
 
-## ![Visit The Site](https://mahdiasadolahzade.github.io/Simple-Rotation-Navbar/)
+## Demo
+
+Visit The ![Site](https://mahdiasadolahzade.github.io/Simple-Rotation-Navbar/)
 
 ## Overview
 
