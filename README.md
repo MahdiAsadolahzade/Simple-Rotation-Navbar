@@ -21,6 +21,7 @@ The rotational navbar is designed to enhance user experience by providing an att
    ```bash
    git clone https://github.com/MahdiAsadolahzade/Simple-Rotation-Navbar.git
 
+### *
    Include the necessary CSS and JavaScript files in your web project.
 
 Configure the navbar options and styles according to your preferences.
